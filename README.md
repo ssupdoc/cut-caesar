@@ -39,3 +39,7 @@ Run `crack.js` using `node crack.js`, feed your cipher text and boom! You will g
 - [ ] Automate usage
 - [ ] Frequency analysis of mostly used letters in words before looking for possible words
 - [ ] ...
+
+## Acknowledgement
+
+* The dictionary used is based off english dictionary from [dwyl/english-words](https://github.com/dwyl/english-words). However, slight modifications are made to suit the format required by [cut-ceaser](https://github.com/ssupdoc/cut-caesar)
