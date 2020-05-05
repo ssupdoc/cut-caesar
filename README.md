@@ -29,12 +29,13 @@ Enough talk, here is what we are going to do, given the Cipher text, without the
 
 * Node.js v6+
 
-## Usage
+<!--- ## Usage
 
-Run `crack.js` using `node crack.js`, feed your cipher text and boom! You will get your message
+Run `crack.js` using `node crack.js`, feed your cipher text and boom! You will get your message -->
 
 ## Roadmap
 
 - [ ] Caesar cipher prediction using brute force
+- [ ] Automate usage
 - [ ] Frequency analysis of mostly used letters in words before looking for possible words
 - [ ] ...
