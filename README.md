@@ -35,7 +35,7 @@ Run `crack.js` using `node crack.js`, feed your cipher text and boom! You will g
 
 ## Roadmap
 
-- [ ] Caesar cipher prediction using brute force
+- [X] Caesar cipher prediction using brute force
 - [ ] Automate usage
 - [ ] Frequency analysis of mostly used letters in words before looking for possible words
 - [ ] ...
